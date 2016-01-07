@@ -1,0 +1,26 @@
+{
+  "name": "gitbook-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gitbook build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mavrin/gitbook-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mavrin/gitbook-example/issues"
+  },
+  "homepage": "https://github.com/Mavrin/gitbook-example#readme",
+  "devDependencies": {
+    "gitbook-cli": "^1.0.1"
+  },
+  "dependencies": {
+    "gitbook-plugin-jsfiddle": "git+https://github.com/Mavrin/gitbook-plugin-jsfiddle.git#2249e85"
+  }
+}

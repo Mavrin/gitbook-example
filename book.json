@@ -1,0 +1,11 @@
+{
+  "gitbook": "2.x.x",
+  "plugins": [ "jsfiddle"],
+  "pluginsConfig": {
+    "jsfiddle":{
+      "tabs":["result","js","css", "html"],
+      "height":500,
+      "widht":500
+    }
+  }
+}
