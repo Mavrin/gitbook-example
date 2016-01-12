@@ -3,9 +3,11 @@
   "plugins": [ "jsfiddle"],
   "pluginsConfig": {
     "jsfiddle":{
+      "type": "frame",
+      "theme": "dark",
       "tabs":["result","js","css", "html"],
       "height":500,
-      "widht":500
+      "width":500
     }
   }
 }
