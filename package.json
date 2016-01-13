@@ -21,6 +21,6 @@
     "gitbook-cli": "^1.0.1"
   },
   "dependencies": {
-    "gitbook-plugin-jsfiddle": "1.0.0-alpha.8"
+    "gitbook-plugin-jsfiddle": "1.0.0-beta.0"
   }
 }
