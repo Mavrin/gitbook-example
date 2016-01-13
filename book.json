@@ -4,6 +4,7 @@
   "pluginsConfig": {
     "jsfiddle":{
       "type": "frame",
+      "bodyColor":"ff0000",
       "theme": "dark",
       "tabs":["result","js","css", "html"],
       "height":500,
