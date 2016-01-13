@@ -1,3 +1,3 @@
-[source code](https://jsfiddle.net/zalun/NmudS/)
-[source code](https://jsfiddle.net/zalun/NmudS/#bodyColor=00FF00&type=script)
-[source code](https://jsfiddle.net/zalun/NmudS/#bodyColor=00FF00&type=script&tabs=js)
+[source code](https://jsfiddle.net/4o4z6fqn/9/)
+[source code](https://jsfiddle.net/4o4z6fqn/9/#bodyColor=eee&type=script)
+[source code](https://jsfiddle.net/4o4z6fqn/9/#bodyColor=eee&type=script&tabs=js)
